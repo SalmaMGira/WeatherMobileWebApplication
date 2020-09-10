@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="theme-color" content="#15117a">
+    <title>Weather Go</title>
+    <!-- Startup configuration -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="main.css" />
+    <link rel="icon" href="icons/Webp.net-resizeimage (0).png">
+</head>
+
+<body>
+    <div class="app-wrap">
+        <header>
+            <label for="search-text">Search a City</label>
+            <input type="text" autocomplete="off" class="search-box" id="search-text"
+            placeholder="Search for city .."/>
+        </header>
+
+        <main>
+            <section class="location">
+                <div class="city"></div>
+                <div class="date"></div>
+            </section>
+
+            <div class="current">
+                <div class="temp"><span></span></div>
+                <div class="weather"></div>
+                <div class="high-low"></div>
+            </div>
+        </main>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

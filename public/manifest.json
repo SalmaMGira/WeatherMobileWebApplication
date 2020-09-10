@@ -1,0 +1,56 @@
+{
+    "name": "Weather Go",
+    "short_name": "Weather Go",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#375482",
+    "theme_color": "#20498a",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/icons/Webp.net-resizeimage (0).png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (1).png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (2).png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (3).png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (4).png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (5).png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (6).png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (7).png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/icons/Webp.net-resizeimage (8).png",
+            "type": "image/png",
+            "sizes": "180x180"
+        }
+    ]
+}
